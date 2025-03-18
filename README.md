@@ -64,13 +64,14 @@ Follow these steps to set up the project locally:
 
 This will run the project on http://localhost:3000 (or another available port).
 
-##Usage
+## Usage
 
 Once the server is running, open your browser and navigate to http://localhost:3000.
 You will be greeted with the main dashboard, where you can explore different features of the platform.
 Depending on your role (Student or Teacher), you will have access to different functionalities designed to enhance the learning experience.
 
-Contributing
+## Contributing
+
 We welcome contributions to improve AcademicIQ! To contribute:
 
 Fork the repository.
