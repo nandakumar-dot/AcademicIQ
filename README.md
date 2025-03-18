@@ -75,9 +75,10 @@ Depending on your role (Student or Teacher), you will have access to different f
 We welcome contributions to improve AcademicIQ! To contribute:
 
 Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-name).
-Create a pull request.
-Please make sure your code adheres to the project's coding standards and is thoroughly tested.
+
+- Create a new branch (git checkout -b feature-name).
+- Make your changes.
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-name).
+- Create a pull request.
+- Please make sure your code adheres to the project's coding standards and is thoroughly tested.
