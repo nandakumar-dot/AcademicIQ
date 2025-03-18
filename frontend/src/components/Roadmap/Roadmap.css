@@ -1,0 +1,8 @@
+
+
+.canvas{
+    background-color: rgb(31, 26, 33);
+
+    flex:1;
+    display:flex;
+}
